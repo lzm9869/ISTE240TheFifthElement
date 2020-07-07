@@ -1,0 +1,40 @@
+/* Leng Mawi, ISTE-240, 2198 */
+body {
+    background-image: url(../images/unsplash.jpg);
+    background-position: center;
+    color: black;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    padding: 16px 16px 32px;
+    height: 20000px;
+}
+footer{
+    text-align: center;
+    color: white;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:link {
+    color: green;
+}
+
+a:visited {
+    color: pink;
+}
+
+a:hover {
+    color: gray;
+}
+
+a:active {
+    color: yellow;
+}
